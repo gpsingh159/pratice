@@ -1,9 +1,2 @@
-
-
-#/.idea
-#/composer.lock
-#composer.phar
-
-#.env
-#.env.backup
 a.txt
+/abc/p.py
